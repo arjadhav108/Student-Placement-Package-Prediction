@@ -7,7 +7,7 @@ pipe = pickle.load(open("placement_pipe.pkl", "rb"))
 
 st.set_page_config(page_title="Student Placement Package Prediction")
 
-st.title("🎓 Student Placement Package Prediction")
+st.title("Student Placement Package Prediction")
 st.write("Enter student details to predict the expected salary package.")
 
 # -----------------------
